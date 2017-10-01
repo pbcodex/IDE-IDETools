@@ -1,2 +1,3 @@
 # IDE-IDETools
-Create a tool for the official IDE of PureBasic / 
+How to create a tool for the official PureBasicIDE.  
+Comment créer un outil pour l'IDE officiel de PureBasic.
